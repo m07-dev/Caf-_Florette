@@ -18,7 +18,7 @@ Ce projet est un site web statique créé avec HTML et CSS, conçu pour présent
 - **CSS** : Mise en forme du site, y compris la mise en page, les couleurs et les polices.
 
 ## Installation
-
+ 
 1. Clonez ce projet sur votre machine locale :
    ```bash
    git clone https://github.com/m07-dev/Caf-_Florette
